@@ -57,3 +57,6 @@ day_1/
 
 # User files
 .Rproj.user/
+
+# Packges
+packages.txt

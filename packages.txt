@@ -1,6 +1,0 @@
-tidyverse
-sf
-rnaturalearth
-rnaturalearthdata
-ggplot2
-ggthemes
