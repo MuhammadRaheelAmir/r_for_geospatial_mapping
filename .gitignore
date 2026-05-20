@@ -54,3 +54,6 @@ dist/
 # Allow CSVs elsewhere but ignore specific folders
 day_1/
 !*.csv
+
+# User files
+.Rproj.user/

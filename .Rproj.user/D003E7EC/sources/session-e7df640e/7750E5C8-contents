@@ -1,3 +1,6 @@
 setRepositories()
 library("tidyverse",dependecies=TRUE)
 library(tidyverse)
+packages=scan("packages.txt",what=character())
+install.packages("packages",dependencies = TRUE)
+
