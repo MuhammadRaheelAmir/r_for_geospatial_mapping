@@ -1,0 +1,7 @@
+tidyverse
+sf
+rnaturalearth
+rnaturalearthdata
+tidyverse
+ggplot2
+ggthemes
