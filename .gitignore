@@ -60,3 +60,6 @@ day_1/
 
 # Packges
 packages.txt
+# Plots
+plots/
+.positai
